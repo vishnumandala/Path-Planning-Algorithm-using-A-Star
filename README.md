@@ -53,7 +53,7 @@ Shortest Path:  [(35, 67, 30), (38.0, 69.0, 30), (41.0, 71.0, 30), (44.0, 73.0, 
 Runtime: 4.806797742843628 seconds
 
 ## Output Photo
-https://drive.google.com/file/d/1l9jYyBzPVoRJ7a5-ZCvD65SvwugVHwZw/view?usp=share_link
+![A Star](https://github.com/vishnumandala/Path-Planning-Algorithm-using-A-Star/blob/main/project3_output.png)
 
 ## Animation
 https://drive.google.com/file/d/1gEpD78ewm2ewnozhcy5wWfuew5WhLpQ2/view?usp=share_link
