@@ -56,5 +56,4 @@ Runtime: 4.806797742843628 seconds
 ![A Star](https://github.com/vishnumandala/Path-Planning-Algorithm-using-A-Star/blob/main/project3_output.png)
 
 ## Animation
-https://drive.google.com/file/d/1gEpD78ewm2ewnozhcy5wWfuew5WhLpQ2/view?usp=share_link
-
+![](https://github.com/vishnumandala/Path-Planning-Algorithm-using-A-Star/blob/main/animation.gif)
